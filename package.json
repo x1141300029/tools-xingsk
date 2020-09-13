@@ -1,0 +1,25 @@
+{
+  "name": "tools-xingsk",
+  "version": "1.0.0",
+  "description": "工具包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x1141300029/tools-xingsk.git"
+  },
+  "keywords": [
+    "工具包",
+    "js",
+    "javascript",
+    "javascript工具包"
+  ],
+  "author": "邢世宽",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x1141300029/tools-xingsk/issues"
+  },
+  "homepage": "https://github.com/x1141300029/tools-xingsk#readme"
+}
